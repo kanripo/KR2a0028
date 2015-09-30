@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 新唐書糾謬
-#+DATE: 2015-09-23 09:41:58
+#+DATE: 2015-09-12 00:40:27.681780
+#+PROPERTY: ID KR2a0028
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB10n0704-016新唐書糾謬-卷十六.
 <pb:KR2a0028_SBCK_016-1a>¶
 新唐書糾謬卷第十六¶
 　　　　　　　　　　　宋咸林吳縝纂¶
@@ -101,4 +105,3 @@
 　失其序矣¶
 　　　　　　　　　　　　海虞趙開美校刋¶
 新唐書糾謬卷第十六¶
-

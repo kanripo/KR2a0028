@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 新唐書糾謬
-#+DATE: 2015-09-23 09:41:58
+#+DATE: 2015-09-12 00:40:27.164645
+#+PROPERTY: ID KR2a0028
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB10n0704-004新唐書糾謬-卷四.
 <pb:KR2a0028_SBCK_004-1a>¶
 新唐書紏謬卷第四¶
 　　　　　　　　　　　宋咸林吳縝纂¶
@@ -462,4 +466,3 @@
 　故易於舛悮唯弘基傳有淺水原戰没之&KR0003;¶
 　爲謬最甚矣¶
 新唐書紏謬卷第四　海虞趙開美校刋¶
-

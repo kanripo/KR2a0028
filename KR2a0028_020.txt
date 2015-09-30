@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 新唐書糾謬
-#+DATE: 2015-09-23 09:41:58
+#+DATE: 2015-09-12 00:40:27.842248
+#+PROPERTY: ID KR2a0028
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB10n0704-020新唐書糾謬-卷二十.
 <pb:KR2a0028_SBCK_020-1a>¶
 新唐書糾謬卷第二十¶
 　　　　　　　　　　宋咸林吳縝纂¶
@@ -419,4 +423,3 @@
 　人止是三從昆弟¶
 　　　　　　　　　　　　海虞趙開美校刋¶
 新唐書糾謬卷第二十　長洲(顧<折 t="33"/>植書/趙應期刻)¶
-

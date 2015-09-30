@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 新唐書糾謬
-#+DATE: 2015-09-23 09:41:58
+#+DATE: 2015-09-12 00:40:27.125994
+#+PROPERTY: ID KR2a0028
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB10n0704-003新唐書糾謬-卷三.
 <pb:KR2a0028_SBCK_003-1a>¶
 新唐書糾謬卷第三¶
 　　　　　　　　　　　宋咸林吳縝纂¶
@@ -221,4 +225,3 @@
 　乃盡其實¶
 　　　　　　　　　　　海虞趙開美　校刋¶
 新唐書紏謬卷第三¶
-

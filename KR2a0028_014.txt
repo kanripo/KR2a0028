@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 新唐書糾謬
-#+DATE: 2015-09-23 09:41:58
+#+DATE: 2015-09-12 00:40:27.607691
+#+PROPERTY: ID KR2a0028
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB10n0704-014新唐書糾謬-卷十四.
 <pb:KR2a0028_SBCK_014-1a>¶
 新唐書糾謬卷第十四¶
 　　　　　　　　　　　　宋咸林吳縝纂¶
@@ -181,4 +185,3 @@
 　追罷詔命一事不載蓋闕文也¶
 　　　　　　　　　　　　海虞趙開美校刋¶
 新唐書糾謬卷第十四¶
-

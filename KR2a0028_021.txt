@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 新唐書糾謬
-#+DATE: 2015-09-23 09:41:58
+#+DATE: 2015-09-12 00:40:27.887929
+#+PROPERTY: ID KR2a0028
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 21
+#+PROPERTY: FILE SB10n0704-021新唐書糾謬-後序.
 <pb:KR2a0028_SBCK_021-1a>¶
 栁宗元傳貞符内云後之祅淫囂昏好怪之徒¶
 　　今案此&KR0349;字疑是嚚字¶
@@ -31,4 +35,3 @@
 　　　　　蘇定方傳¶
 蘇定方傳云&KR0350;賀魯以還又云遂面&KR0350;降¶
 　　今案其字皆當作&KR0350;¶
-
